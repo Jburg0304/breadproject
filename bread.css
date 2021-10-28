@@ -1,0 +1,8 @@
+h1{
+    font-size: 80px;
+    font-family: 'Henny Penny', cursive;
+    background-image: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red);
+    background-size: 1200px;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

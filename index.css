@@ -1,0 +1,22 @@
+/* CSS document */
+p{
+    font-size: 80px;
+    font-family: 'Henny Penny', cursive;
+    color: black;
+    text-shadow: -4px 4px rgb(44, 93, 255);
+}
+h1{
+    font-size: 80px;
+    font-family: 'Henny Penny', cursive;
+    background-image: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red);
+    background-size: 700px;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+body{
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+}
+div{
+    font-size: 40px;
+    font-family: 'Henny Penny', cursive;
+}
